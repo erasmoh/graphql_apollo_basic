@@ -1,0 +1,1 @@
+# GraphQL simple project with client and server
